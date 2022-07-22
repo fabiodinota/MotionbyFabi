@@ -4,6 +4,7 @@ Im currently working on improving my skills as a web developer, mainly focusing 
 
 If you'd like to contact me I'm most active on discord: Fabi.#8499
 
+<a href="mailto:fabski.luna@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <!--
 
 Here are some ideas to get you started:
