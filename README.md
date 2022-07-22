@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+Im currently working on improving my skills as a web developer, mainly focusing on front-end but definitely leaping into back-end. Over the next few months I plan to learn Node.js, Express.js, Graphql and MongoDB. I currently have extensive knowledge in [React & Next], [Typescript & Javascript] and any CSS framework.
+
+If you'd like to contact me I'm most active on discord: Fabi.#8499
+
 <!--
-**MotionbyFabi/MotionbyFabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
