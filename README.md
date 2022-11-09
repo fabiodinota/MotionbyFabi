@@ -13,8 +13,9 @@ If you'd like to contact me I'm most active on discord: Fabi.#8499
 
 <br>
 
-![Fabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MotionbyFabi&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MotionbyFabi&layout=compact)
+
+![Fabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MotionbyFabi&show_icons=true&theme=radical)
 
 <br>
 
