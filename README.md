@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Im currently working on improving my skills as a web developer, mainly focusing on front-end but definitely dipping my toes in back-end. Over the next few months I plan to learn Node.js, Express.js, Graphql, and MongoDB. I currently have extensive knowledge in [React & Next], [Typescript & Javascript] and any CSS framework.
+Im currently working on improving my skills as a Software Engineer, mainly focusing on front-end. Over the next few months I plan to learn three.js, R3F and blender to create amazing and smooth 3D Websites. I currently have extensive knowledge in [React & Next], [Typescript & Javascript], [Node.js, Express] and any CSS framework.
 
 If you'd like to contact me I'm most active on discord: Fabi.#8499
 
