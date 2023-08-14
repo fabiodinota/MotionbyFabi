@@ -14,8 +14,6 @@ If you'd like to contact me: contact@fabiodinota.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodinota&layout=compact)
 
-![Fabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiodinota&show_icons=true&theme=radical)
-
 <br>
 
 Relevant tags <br>
