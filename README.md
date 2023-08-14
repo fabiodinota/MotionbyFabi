@@ -12,9 +12,9 @@ If you'd like to contact me: contact@fabiodinota.com
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MotionbyFabi&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodinota&layout=compact)
 
-![Fabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MotionbyFabi&show_icons=true&theme=radical)
+![Fabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiodinota&show_icons=true&theme=radical)
 
 <br>
 
